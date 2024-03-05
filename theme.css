@@ -109,7 +109,7 @@ body
     --text-muted:                    var(--light1);
     --text-accent:                   var(--teal0);
     --text-accent-hover:             var(--light3);
-    --bold-color:                    var(--light3);
+    --bold-color:                    var(--teal3);
     --italic-color:                  var(--light3);
 
     /* links */
